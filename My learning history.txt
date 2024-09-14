@@ -7,3 +7,4 @@ And then make changes to these files by making commits which will have a history
 Each one of these commits has a unique hash.
 
 Day 1 Branches
+Branches are basically about experimental ideas that we are not sure if we want to keep.
