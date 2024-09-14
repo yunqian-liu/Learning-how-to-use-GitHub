@@ -1,7 +1,9 @@
-Day 0
+Class 0 Introduction
 Git vs GitHub
 Git is about version control.
 Github is a website where we can do projects that have version control on them.
 We can make repository and add files to it.
 And then make changes to these files by making commits which will have a history for us to browse.
 Each one of these commits has a unique hash.
+
+Day 1 Branches
