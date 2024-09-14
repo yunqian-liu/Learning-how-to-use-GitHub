@@ -6,5 +6,7 @@ We can make repository and add files to it.
 And then make changes to these files by making commits which will have a history for us to browse.
 Each one of these commits has a unique hash.
 
+French is a Romance language of the Indo-European family.
+
 Day 1 Branches
 Branches are basically about experimental ideas that we are not sure if we want to keep.
