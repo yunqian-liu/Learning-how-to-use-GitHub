@@ -1,4 +1,5 @@
 Class 0 Introduction
+
 Git vs GitHub
 Git is about version control.
 Github is a website where we can do projects that have version control on them.
@@ -9,4 +10,6 @@ Each one of these commits has a unique hash.
 French is a Romance language of the Indo-European family.
 
 Day 1 Branches
+
 Branches are basically about experimental ideas that we are not sure if we want to keep.
+Pull requests are requests that merge these experimental ideas like "learning French" back to the main branch.
